@@ -1,0 +1,19 @@
+{
+  "name": "tuomashatakka.github.me",
+  "version": "1.0.0",
+  "description": "tunpi.texh",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/tuomashatakka/tuomashatakka.github.me.git"
+  },
+  "author": "tuomashatakka <tuomas.hatakka@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tuomashatakka/tuomashatakka.github.me/issues"
+  },
+  "homepage": "https://github.com/tuomashatakka/tuomashatakka.github.me#readme"
+}
